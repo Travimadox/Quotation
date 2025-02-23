@@ -72,10 +72,10 @@ def initialize_session_state():
             'address': ''
         },
         'company_info': {
-            'name': 'Your Company Name',
-            'address': '123 Business Street\nNairobi, Kenya',
-            'phone': '+254 712 345 678',
-            'email': 'info@company.com',
+            'name': 'Ayub Obiene',
+            'address': 'Uaso\\Nile Road Junction\nNairobi, Kenya',
+            'phone': '+254 720 317 278\n +254 743 064 111',
+            'email': 'ayubochieng11@gmail.com',
             'logo': None,
             'footer_text': 'Thank you for your business!',
             'theme_color': '#4A90E2'
