@@ -75,7 +75,7 @@ def initialize_session_state():
             'name': 'Ayub Obiene',
             'address': 'Uaso\\Nile Road Junction\nNairobi, Kenya',
             'phone': '+254 720 317 278\n +254 743 064 111',
-            'email': 'ayubochieng11@gmail.com',
+            'email': 'ayubobiene@gmail.com',
             'logo': None,
             'footer_text': 'Thank you for your business!',
             'theme_color': '#4A90E2'
